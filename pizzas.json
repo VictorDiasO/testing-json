@@ -1,0 +1,82 @@
+[
+  {
+    "pizzas": [
+      {
+        "id": "calabreza",
+        "name": "Filé de Pescada",
+        "img": "calabreza",
+        "ingredients": "Salada completa, filé de pescada, lula à dore, arroz, feijão e fritas.",
+        "recommendationDay": true,
+        "points": 300,
+        "price": 130
+      },
+      {
+        "id": "mussarela",
+        "name": "Filé de Badejo",
+        "img": "mussarela",
+        "ingredients": "Salada completa, filé de Badejo, lula à dore, arroz, feijão e fritas.",
+        "recommendationDay": false,
+        "points": 360,
+        "price":185
+      },
+      {
+        "id": "napolitana",
+        "name": "Filé de Pescada ao Molho de Camarão",
+        "img": "napolitana",
+        "ingredients": "Arroz e Fritas.",
+        "recommendationDay": false,
+        "points": 250,
+        "price":150.00
+      },
+      {
+        "id": "peperone",
+        "name": "FILÉ DE BADEJO AO MOLHO DE CAMARÃO",
+        "img": "peperone",
+        "ingredients": "Arroz e Fritas.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":195.00
+      },
+      {
+        "id": "peperone2",
+        "name": "peperone2",
+        "img": "peperone",
+        "ingredients": "Mussarela, orégano e pepperoni.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":39.99
+      },
+      {
+        "id": "peperone3",
+        "name": "peperone3",
+        "img": "peperone",
+        "ingredients": "Mussarela, orégano e pepperoni.",
+        "recommendationDay": false,
+        "points": 400,
+        "price":49.99
+      }
+    ],
+    "sizesAndPrices": [
+      {
+        "size": "Pequena",
+        "price": 19.99,
+        "slices": 4
+      },
+      {
+        "size": "Média",
+        "price": 29.99,
+        "slices": 6
+      },
+      {
+        "size": "Grande",
+        "price": 39.99,
+        "slices": 8
+      },
+      {
+        "size": "Família",
+        "price": 49.99,
+        "slices": 12
+      }
+    ]
+  }
+]
