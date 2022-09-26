@@ -3,7 +3,7 @@
     "pizzas": [
       {
         "id": "calabreza",
-        "name": "Filé de Pescada",
+        "name": "Filézin",
         "img": "calabreza",
         "ingredients": "Salada completa, filé de pescada, lula à dore, arroz, feijão e fritas.",
         "recommendationDay": true,
